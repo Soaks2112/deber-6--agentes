@@ -1,0 +1,22 @@
+{
+  "catalogo_permitido": ["Card", "Text", "Button"],
+  "ilustracion": "didactica; no es un mensaje A2UI estandar valido",
+  "ui": {
+    "component": "Card",
+    "children": [
+      {
+        "component": "Text",
+        "text": "usuarios.py · linea 21 · severidad: alta"
+      },
+      {
+        "component": "Text",
+        "text": "Entrada nombre concatenada en una consulta SQL."
+      },
+      {
+        "component": "Button",
+        "label": "Solicitar revision adicional",
+        "event": "pedir_revision"
+      }
+    ]
+  }
+}
