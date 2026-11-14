@@ -55,6 +55,7 @@ El orquestador detecta un fallo si la salida está vacía sin explicación, cita
 
 ```json
 {
+  "id": "especialista-pruebas-remoto",
   "name": "especialista-pruebas-remoto",
   "description": "Propone casos de prueba faltantes para un archivo Python.",
   "skills": [
